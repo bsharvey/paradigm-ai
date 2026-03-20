@@ -5,7 +5,7 @@ const team = [
   {
     name: 'Dr. Benjamin Harvey',
     role: 'Co-Founder & CEO',
-    image: '/team/ben.jpg',
+    image: '/team/ben.jpeg',
     initials: 'BH',
     linkedin: 'https://www.linkedin.com/in/benjaminsharvey/',
     bio: 'Former Chief of Operations Data Science at the NSA. Founder of AI Squared (~$200M valuation, $20M+ raised). D.Sc. in Computer Science. Research appointments at Harvard Medical School, Johns Hopkins, NIH, and George Washington University. Former Director of Data Science at Maxar (CIA programs). Featured on CNBC and Forbes.',
@@ -14,7 +14,7 @@ const team = [
   {
     name: 'Stanford Wilkinson',
     role: 'Co-Founder & COO',
-    image: '/team/stan.jpg',
+    image: '/team/stan.jpeg',
     initials: 'SW',
     linkedin: 'https://www.linkedin.com/in/stanford-wilkinson-a738331a6/',
     bio: 'Seasoned executive leader with deep expertise in organizational management, strategy, and business development. Executive Director at DEFY and Chief DEI Officer at STARC Inc. President of JHR Investment Ventures. Board member of the Detroit Association of Black Organizations. Economics background with advanced study in organizational management.',
@@ -23,7 +23,7 @@ const team = [
   {
     name: 'Ivan McClerkin',
     role: 'Co-Founder & CRO',
-    image: '/team/ivan.jpg',
+    image: '/team/ivan.jpeg',
     initials: 'IM',
     linkedin: 'https://www.linkedin.com/in/ivan-mcclerkin/',
     bio: 'Serial entrepreneur and revenue leader with an MBA and deep sales expertise. Built and scaled mortgage operations exceeding $2M/month in closings. Former Executive Mortgage Loan Officer at Quicken Loans, consistently exceeding quotas by 40%+. Expert in consultative selling, team leadership, and go-to-market strategy.',
