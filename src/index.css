@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paradigm-50: #f0f4ff;
+  --color-paradigm-100: #dbe4ff;
+  --color-paradigm-200: #bac8ff;
+  --color-paradigm-300: #91a7ff;
+  --color-paradigm-400: #748ffc;
+  --color-paradigm-500: #5c7cfa;
+  --color-paradigm-600: #4c6ef5;
+  --color-paradigm-700: #4263eb;
+  --color-paradigm-800: #3b5bdb;
+  --color-paradigm-900: #364fc7;
+  --color-paradigm-950: #1e2a5e;
+
+  --color-accent-400: #38d9a9;
+  --color-accent-500: #20c997;
+  --color-accent-600: #12b886;
+
+  --color-dark-50: #f8f9fa;
+  --color-dark-100: #f1f3f5;
+  --color-dark-200: #e9ecef;
+  --color-dark-300: #dee2e6;
+  --color-dark-400: #ced4da;
+  --color-dark-500: #adb5bd;
+  --color-dark-600: #868e96;
+  --color-dark-700: #495057;
+  --color-dark-800: #343a40;
+  --color-dark-900: #212529;
+  --color-dark-950: #0d1117;
+
+  --font-display: "Inter", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #0d1117;
+    color: #f1f3f5;
+    font-family: "Inter", system-ui, sans-serif;
+  }
+  ::selection {
+    background: rgba(76, 110, 245, 0.3);
+  }
+}
